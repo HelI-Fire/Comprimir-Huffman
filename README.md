@@ -1,10 +1,10 @@
-# Visualizador-web-de-algoritmos
+# Comprimir-Huffman
 Carpeta principal de nuestro proyecto web.
 Nombre del proyecto:
 Visualizador web de algoritmos de ordenamiento
 
 Pagina URL:
-https://heli-fire.github.io/Visualizador-web-de-algoritmos/
+https://heli-fire.github.io/Comprimir-Huffman/
 
 Integrantes: 
 1. González López Aldo Lissandro
